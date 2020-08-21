@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPcMakers", "WebPcMakers\WebPcMakers.csproj", "{9AA43CEB-8D2F-49EE-A172-32DD1078376A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPcMakers.Tests", "WebPcMakers.Tests\WebPcMakers.Tests.csproj", "{E986BE65-A8EE-4250-8B65-299617A78F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA43CEB-8D2F-49EE-A172-32DD1078376A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA43CEB-8D2F-49EE-A172-32DD1078376A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA43CEB-8D2F-49EE-A172-32DD1078376A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA43CEB-8D2F-49EE-A172-32DD1078376A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E986BE65-A8EE-4250-8B65-299617A78F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E986BE65-A8EE-4250-8B65-299617A78F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E986BE65-A8EE-4250-8B65-299617A78F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E986BE65-A8EE-4250-8B65-299617A78F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B810CCD-0595-449C-8E68-DD6F29675D5B}
+	EndGlobalSection
+EndGlobal
